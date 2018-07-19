@@ -160,20 +160,21 @@
             <message>true</message>
             <threadName>true</threadName>
             <dataType>true</dataType>
-            <encoding>false</encoding>
+            <encoding>true</encoding>
             <assertions>true</assertions>
             <subresults>true</subresults>
-            <responseData>false</responseData>
-            <samplerData>false</samplerData>
-            <xml>false</xml>
+            <responseData>true</responseData>
+            <samplerData>true</samplerData>
+            <xml>true</xml>
             <fieldNames>true</fieldNames>
-            <responseHeaders>false</responseHeaders>
+            <responseHeaders>true</responseHeaders>
             <requestHeaders>false</requestHeaders>
             <responseDataOnError>false</responseDataOnError>
             <saveAssertionResultsFailureMessage>true</saveAssertionResultsFailureMessage>
             <assertionsResultsToSave>0</assertionsResultsToSave>
             <bytes>true</bytes>
             <sentBytes>true</sentBytes>
+            <fileName>true</fileName>
             <threadCounts>true</threadCounts>
             <idleTime>true</idleTime>
             <connectTime>true</connectTime>
