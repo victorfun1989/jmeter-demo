@@ -152,7 +152,7 @@
           <name>saveConfig</name>
           <value class="SampleSaveConfiguration">
             <time>true</time>
-            <latency>true</latency>
+            <latency>false</latency>
             <timestamp>true</timestamp>
             <success>true</success>
             <label>true</label>
@@ -162,20 +162,19 @@
             <dataType>true</dataType>
             <encoding>true</encoding>
             <assertions>true</assertions>
-            <subresults>true</subresults>
+            <subresults>false</subresults>
             <responseData>true</responseData>
-            <samplerData>true</samplerData>
+            <samplerData>false</samplerData>
             <xml>true</xml>
-            <fieldNames>true</fieldNames>
+            <fieldNames>false</fieldNames>
             <responseHeaders>true</responseHeaders>
             <requestHeaders>false</requestHeaders>
             <responseDataOnError>false</responseDataOnError>
-            <saveAssertionResultsFailureMessage>true</saveAssertionResultsFailureMessage>
+            <saveAssertionResultsFailureMessage>false</saveAssertionResultsFailureMessage>
             <assertionsResultsToSave>0</assertionsResultsToSave>
             <bytes>true</bytes>
             <sentBytes>true</sentBytes>
             <fileName>true</fileName>
-            <threadCounts>true</threadCounts>
             <idleTime>true</idleTime>
             <connectTime>true</connectTime>
           </value>
