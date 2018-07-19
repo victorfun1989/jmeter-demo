@@ -166,7 +166,7 @@
             <responseData>true</responseData>
             <samplerData>true</samplerData>
             <xml>true</xml>
-            <fieldNames>false</fieldNames>
+            <fieldNames>true</fieldNames>
             <responseHeaders>true</responseHeaders>
             <requestHeaders>true</requestHeaders>
             <responseDataOnError>false</responseDataOnError>
